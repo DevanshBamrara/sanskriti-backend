@@ -1,9 +1,13 @@
+com\sanskriti\dto\ContactRequest.class
 com\sanskriti\repository\OrderRepository.class
+com\sanskriti\controller\ContactController.class
 com\sanskriti\dto\ProductRequest.class
 com\sanskriti\service\InventoryService.class
 com\sanskriti\service\ImageService.class
 com\sanskriti\model\OrderItem.class
 com\sanskriti\dto\StockRequest.class
+com\sanskriti\exception\GlobalExceptionHandler.class
+com\sanskriti\model\ContactMessage$ContactMessageBuilder.class
 com\sanskriti\service\OrderService.class
 com\sanskriti\service\ProductService.class
 com\sanskriti\model\Product$ProductBuilder.class
@@ -15,8 +19,10 @@ com\sanskriti\service\VariantService.class
 com\sanskriti\model\ProductVariant.class
 com\sanskriti\model\Order.class
 com\sanskriti\repository\ProductImageRepository.class
+com\sanskriti\repository\ContactMessageRepository.class
 com\sanskriti\service\DashboardService.class
 com\sanskriti\dto\VariantRequest.class
+com\sanskriti\model\ContactMessage.class
 com\sanskriti\dto\OrderRequest$OrderItemDto.class
 com\sanskriti\dto\ImageRequest.class
 com\sanskriti\model\Product.class

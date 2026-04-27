@@ -14,7 +14,9 @@ C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\r
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\dto\StockRequest.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\model\OrderItem.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\service\VariantService.java
+C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\dto\ContactRequest.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\repository\ProductVariantRepository.java
+C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\controller\ContactController.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\dto\ProductRequest.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\repository\ProductRepository.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\model\ProductVariant.java
@@ -22,6 +24,8 @@ C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\s
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\dto\ImageRequest.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\repository\OrderRepository.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\service\InventoryService.java
+C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\model\ContactMessage.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\dto\VariantRequest.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\service\ProductService.java
 C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\dto\DashboardResponse.java
+C:\Users\Dev\Documents\Inventory\sanskriti-backend\src\main\java\com\sanskriti\repository\ContactMessageRepository.java
