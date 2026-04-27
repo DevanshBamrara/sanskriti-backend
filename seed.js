@@ -1,6 +1,6 @@
-const http = require('http');
+const https = require('https');
 
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'https://sanskriti-backend-vblp.onrender.com/api';
 
 const SAREES = [
   { name: 'Crimson Banarasi Zari Saree', price: 45000, desc: 'Pure georgette Banarasi saree heavily hand-woven with real gold zari threads.', img: 'https://images.unsplash.com/photo-1583391733959-b13c7c88b0eb?q=80&w=1000' },
@@ -19,8 +19,8 @@ const SUITS = [
 const postData = (path, data) => new Promise((resolve, reject) => {
   const payload = JSON.stringify(data);
   const options = {
-    hostname: 'localhost',
-    port: 8080,
+    hostname: 'sanskriti-backend-vblp.onrender.com',
+    port: 443,
     path: `/api${path}`,
     method: 'POST',
     headers: {
@@ -29,7 +29,7 @@ const postData = (path, data) => new Promise((resolve, reject) => {
     }
   };
 
-  const req = http.request(options, (res) => {
+  const req = https.request(options, (res) => {
     let body = '';
     res.on('data', chunk => body += chunk);
     res.on('end', () => {
